@@ -1,0 +1,8 @@
+append_unmatched: false
+flatten_single_child_sections: false
+nav:
+  - Home: index.md
+  - Introduction:
+      - subsection 1: introduction.md
+  - Smoothing Methods:
+      - subsection 1: smoothing-methods.md
