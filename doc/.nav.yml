@@ -3,6 +3,6 @@ flatten_single_child_sections: false
 nav:
   - Home: index.md
   - Introduction:
-      - subsection 1.1: introduction.md
-  - Section 2:
-      - subsection 2.1: subsection2-1.md
+      - Intro 1: intro_1.md
+  - Section 1:
+      - subsection 1.1: section_1_1.md

@@ -10,6 +10,8 @@ some words
 
 ## Paragraph 2
 Table
+
+
 | Type | Description |
 |------|-------------|
 | topic | description 1 |
