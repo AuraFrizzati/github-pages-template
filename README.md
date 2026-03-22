@@ -9,7 +9,7 @@ To deploy this website on GitHub Pages:
 1. **Push your code to GitHub:**
    ```bash
    git add .
-   git commit -m "Initial forecasting website"
+   git commit -m "Initial GitHub pages website"
    git push origin main
    ```
 
@@ -27,7 +27,7 @@ To deploy this website on GitHub Pages:
    - You'll see a green checkmark when it's ready
 
 4. **Access your site:**
-   - Your site will be available at: `https://aurafrizzati.github.io/forecasting/`
+   - Your site will be available at: `https://github.com/AuraFrizzati/github-pages-template/`
    - You can find this URL in the Pages settings
 
 ## 🛠️ Local Development
