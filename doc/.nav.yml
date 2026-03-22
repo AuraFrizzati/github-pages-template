@@ -3,6 +3,6 @@ flatten_single_child_sections: false
 nav:
   - Home: index.md
   - Introduction:
-      - subsection 1: introduction.md
-  - Smoothing Methods:
-      - subsection 1: smoothing-methods.md
+      - subsection 1.1: introduction.md
+  - Section 2:
+      - subsection 2.1: subsection2.1.md
