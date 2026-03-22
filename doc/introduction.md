@@ -1,20 +1,20 @@
-# Introduction to Forecasting
+# Introduction to Topic
 
-Forecasting is the process of making predictions about the future based on past and present data.
+some words
 
-## Why Forecast?
+## Paragraph 1
 
-- **Better decisions** – plan ahead with data-driven insights
-- **Risk management** – anticipate problems before they happen
-- **Resource allocation** – optimise budgets, staffing and inventory
+- **Point 1** – bla bla
+- **Point 2** – 
+- **Resource allocation** – 
 
-## Types of Forecasting
-
+## Paragraph 2
+Table
 | Type | Description |
 |------|-------------|
-| Quantitative | Uses numerical data and statistical models |
-| Qualitative | Relies on expert judgement and opinions |
+| topic | description 1 |
+| topic | description 2 |
 
-## When is Forecasting Useful?
+## Another pargraph
 
-Forecasting is valuable whenever you need to plan for the future — whether that's predicting next month's sales, estimating energy demand, or preparing for patient admissions in a hospital.
+bla bla
